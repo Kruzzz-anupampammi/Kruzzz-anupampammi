@@ -32,7 +32,7 @@
 
   :man_facepalming: I hate people, when they ask me  - <b>"Is Java & javaScript the same? :rage:"</b>
   
-  :stuck_out_tongue_closed_eyes: Gets turned on by Programming Memes 🤣
+  :stuck_out_tongue_closed_eyes: Gets turned on by <u>"Programming Memes"</u> 🤣
   </div>
 
 
