@@ -39,7 +39,7 @@
   </div>
 
 <div id="tools">
-<hr/>
+
 
   <h2> :hammer_and_wrench: Languages and Tools :</h2>
   
