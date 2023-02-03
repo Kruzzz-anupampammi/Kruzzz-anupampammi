@@ -52,4 +52,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="50" height="50" />&nbsp;
   </div>
 
+<div class="stats">
+  <h2> :fire: My Stats : </h2>
+  
+  </div>
 
