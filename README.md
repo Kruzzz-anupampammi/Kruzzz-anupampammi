@@ -22,7 +22,14 @@
   
   
   ### :man_technologist: About Me :
-  I am a Passionate Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India & an Postgraduate Student in 🇬🇧 .
+  I am a Passionate Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳 & an Postgraduate Student in UK 🇬🇧.
+  - :telescope: I'm Currently working as a <b>Telesales/Administrator</b> at Direct Line Supplies, Stockton, Middlesbrough.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   </div>
 
 
