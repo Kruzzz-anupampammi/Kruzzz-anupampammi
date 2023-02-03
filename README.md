@@ -18,6 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
 <div id="profile">
   
   
@@ -32,7 +33,9 @@
 
   :man_facepalming: I hate people, when they ask me  - <b>"Is Java & javaScript the same? :rage:"</b>
   
-  :stuck_out_tongue_closed_eyes: Gets turned on by <u>"Programming Memes"</u> 🤣
+  :stuck_out_tongue_closed_eyes: Gets turned on by <u>"Programming Memes"</u> :rofl:
+  
+  :speech_balloon: Something about me? Love Tech :heart:
   </div>
 
 
