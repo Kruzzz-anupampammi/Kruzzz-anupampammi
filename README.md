@@ -46,21 +46,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   </div>
 
-<div id="profile">
-  
-  
-  ### :man_technologist: About Me : 
-  I'm a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳 & an MSc Graduate from UK 🇬🇧.
-  
- :telescope: Currently working as a <b>Telesales Administrator</b> at "Direct Line Supplies, Middlesbrough".
 
- :seedling: Passionate about being a Full Stack Web Developer.
-
- :zap: In my free time, I solve challenges on Frontend Mentor and develop my own thoughts into a Creative, Functional & Responsive Websites.
-
-  :man_facepalming: I hate people, when they ask me  - <b>"Is Java & javaScript the same? :rage:"</b>
-  
-  :stuck_out_tongue_closed_eyes: Gets turned on by <u>"Programming Memes"</u> :rofl:
-  
-  :speech_balloon: Something about me? Love Tech :heart:
-  </div>
