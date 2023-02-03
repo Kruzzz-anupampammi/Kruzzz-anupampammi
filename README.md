@@ -12,8 +12,8 @@
   </a>
   <div id="viewCounter">
     <img src="https://komarev.com/ghpvc/?username=Kruzzz-anupampammi&style=flat-square&color=blue" alt=""/>
-  </div>
-  <p>Hii 👋👋</p>
+  </div><br/>
+  <p>Welcome to my Rep Page 👋🏻</p>
 </div>
 
 
