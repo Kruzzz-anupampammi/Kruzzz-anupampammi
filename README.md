@@ -22,14 +22,17 @@
   
   
   ### :man_technologist: About Me :
-  I'm a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳 & an MSc Graduate from UK 🇬🇧.<br/>
+  I'm a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳 & an MSc Graduate from UK 🇬🇧.
+  
  :telescope: Currently working as a <b>Telesales Administrator</b> at "Direct Line Supplies, Middlesbrough".
 
  :seedling: Passionate about being a Full Stack Web Developer.
 
  :zap: In my free time, I solve challenges on Frontend Mentor and develop my own thoughts into a Creative, Functional & Responsive Websites.
 
-  :man_facepalming: I hate people, when they ask me the question - <b>"Is Java & javaScript the same? :rage:"</b>
+  :man_facepalming: I hate people, when they ask me  - <b>"Is Java & javaScript the same? :rage:"</b>
+  
+  :stuck_out_tongue_closed_eyes: Gets turned on by Programming Memes 🤣
   </div>
 
 
