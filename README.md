@@ -22,7 +22,7 @@
   
   
   ### :man_technologist: About Me :
-  I'm a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳 & an MSc Graduate from UK 🇬🇧.
+  I'm a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳 & an MSc Graduate from UK 🇬🇧.<br/>
  :telescope: Currently working as a <b>Telesales Administrator</b> at "Direct Line Supplies, Middlesbrough".
 
  :seedling: Passionate about being a Full Stack Web Developer.
