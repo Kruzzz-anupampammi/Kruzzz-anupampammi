@@ -22,14 +22,14 @@
   
   
   ### :man_technologist: About Me :
-  I am a Passionate Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳 & an Postgraduate Student in UK 🇬🇧.
-  - :telescope: I'm Currently working as a <b>Telesales/Administrator</b> at Direct Line Supplies, Stockton, Middlesbrough.
+  I'm a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳 & an MSc Graduate from UK 🇬🇧.
+ :telescope: Currently working as a <b>Telesales Administrator</b> at "Direct Line Supplies, Middlesbrough".
 
-- :seedling: Exploring Technical Content Writing.
+ :seedling: Passionate about being a Full Stack Web Developer.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ :zap: In my free time, I solve challenges on Frontend Mentor and develop my own thoughts into a Creative, Functional & Responsive Websites.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anupampammi)
   </div>
 
 
