@@ -38,4 +38,7 @@
   :speech_balloon: Something about me? Love Tech :heart:
   </div>
 
-
+<div id="tools">
+  
+  ### :hammer_and_wrench: Languages and Tools :
+  </div>
