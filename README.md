@@ -22,7 +22,7 @@
 <div id="profile">
   
   
-  ### :man_technologist: About Me :
+  ### :man_technologist:<h2> About Me : </h2>
   I'm a Frontend Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India 🇮🇳 & an MSc Graduate from UK 🇬🇧.
   
  :telescope: Currently working as a <b>Telesales Administrator</b> at "Direct Line Supplies, Middlesbrough".
@@ -41,7 +41,7 @@
 <div id="tools">
 <hr/>
 
-:hammer_and_wrench: Languages and Tools :
+  :hammer_and_wrench:<h2> Languages and Tools :</h2>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   </div>
