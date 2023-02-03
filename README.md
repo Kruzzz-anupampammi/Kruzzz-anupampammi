@@ -36,7 +36,7 @@
   :stuck_out_tongue_closed_eyes: Gets turned on by <u>"Programming Memes"</u> :rofl:
   
   :speech_balloon: Something about me? Love Tech :heart:
-  </div>
+  </div><br/>
 
 <div id="tools">
 
@@ -50,7 +50,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50" />&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="50" height="50" />&nbsp;
-  </div>
+  </div><br/>
 
 <div class="stats">
   <h2> :fire: My Stats : </h2>
