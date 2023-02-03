@@ -19,7 +19,7 @@
 </h1>
 </div>
 <div id="profile">
-  ---
+  
   
   ### :man_technologist: About Me :
   </div>
