@@ -55,7 +55,7 @@
 <div class="stats">
   <h2> :fire: My Stats : </h2>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kruzzz-anupampammi&theme=buefy&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kruzzz-anupampammi&theme=leafy&hide_border=true&border_radius=5)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kruzzz-anupampammi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </div>
