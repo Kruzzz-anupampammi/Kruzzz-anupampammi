@@ -1,7 +1,7 @@
 # anupampammi
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </div> <br/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/anupampammi">
