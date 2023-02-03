@@ -55,6 +55,6 @@
 <div class="stats">
   <h2> :fire: My Stats : </h2>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kruzzz-anupampammi&theme=light&background=ffffff)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kruzzz-anupampammi&theme=buefy&border_radius=5)](https://git.io/streak-stats)
   </div>
 
