@@ -29,7 +29,7 @@
 
  :zap: In my free time, I solve challenges on Frontend Mentor and develop my own thoughts into a Creative, Functional & Responsive Websites.
 
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupampammi)
+  :man_facepalming: I hate people, when they ask me the question - <b>"Is Java & javaScript the same? :rage:"</b>
   </div>
 
 
